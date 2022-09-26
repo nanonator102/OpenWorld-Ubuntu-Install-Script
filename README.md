@@ -18,7 +18,7 @@ Basic script to automatically download and set up Open World 1.4.0 on Ubuntu 22.
 
 For any questions regarding Open World please see the information on their Github page: (https://github.com/TastyLollipop/OpenWorld)
 
-For any questions regarding this script I can be contacted on discord at nanonator102:1542
+For any questions regarding this script I can be contacted on discord at nanonator102#1542
 
 ### LICENSE
 
