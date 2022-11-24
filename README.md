@@ -2,7 +2,7 @@
 
 Open World is a Rimworld Multiplayer mod developed by TastyLollipop and can be found here: https://github.com/TastyLollipop/OpenWorld
 
-Basic script to automatically download and set up Open World 1.4.0 on Ubuntu 22.04. This script may work on other Linux distributions based on Debian however will not work on other distributions.
+Basic script to automatically download and set up Open World 1.4.2 on Ubuntu 22.04. This script may work on other Linux distributions based on Debian however will not work on other distributions.
 
 ### PREREQUISITES:
 * unzip: `sudo apt install unzip`
