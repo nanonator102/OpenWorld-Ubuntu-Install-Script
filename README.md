@@ -13,6 +13,12 @@ Basic script to automatically download and set up Open World 1.4.2 on Ubuntu 22.
 3. Enter the repository folder and run `sh install.sh`
 4. Server will be installed at `~/OpenWorld` - run server with `./run.sh`
 
+### UPDATE INSTRUCTIONS:
+1. Delete OpenWorld folder
+2. Clone repo to home directory of host machine.
+3. Enter the repository folder and run `sh server-only.sh`
+4. Server will be installed at `~/OpenWorld` - run server with `./run.sh`
+
 
 ### CONTACT INFORMATION
 
