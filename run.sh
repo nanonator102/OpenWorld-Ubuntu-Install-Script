@@ -1,3 +1,4 @@
 #!/bin/sh
 export DOTNET_ROOT=$HOME/.dotnet
-./Open\ World\ Server
+cd linux-x64
+./OpenWorldServer
